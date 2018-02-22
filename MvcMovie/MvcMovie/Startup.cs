@@ -48,7 +48,7 @@ namespace MvcMovie
             }
 
             app.UseStaticFiles();
-
+            //可在此設定路由方式，id?結尾的問號表示他是選擇性參數
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
