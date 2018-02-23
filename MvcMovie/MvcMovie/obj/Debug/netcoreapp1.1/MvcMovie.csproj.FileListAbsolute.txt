@@ -7,3 +7,14 @@ C:\Users\utron\Desktop\購物車\MvcMovie\shop_MVC\MvcMovie\MvcMovie\obj\Debug\n
 C:\Users\utron\Desktop\購物車\MvcMovie\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
 C:\Users\utron\Desktop\購物車\MvcMovie\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
 C:\Users\utron\Desktop\購物車\MvcMovie\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\utron\Desktop\購物車\shop_MVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
